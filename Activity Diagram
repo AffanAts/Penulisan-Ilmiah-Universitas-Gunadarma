@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-08-09T16:42:09.532Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="W1GFLmcN1Eodn1iJyewr" version="20.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-09T16:44:01.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6OkbWNyxiYrlpjkXPFDh" version="20.2.3" type="github">
   <diagram id="EkrjbN9EIvE_mYHeff6R" name="Halaman-1">
-    <mxGraphModel dx="1221" dy="672" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="816" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="tZi0IeU0YfymeczyBZ9T-1" value="User" style="swimlane;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="90" y="70" width="320" height="1070" as="geometry" />
+          <mxGeometry x="90" y="70" width="320" height="760" as="geometry" />
         </mxCell>
         <mxCell id="tZi0IeU0YfymeczyBZ9T-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=15;" edge="1" parent="tZi0IeU0YfymeczyBZ9T-1" source="tZi0IeU0YfymeczyBZ9T-7" target="tZi0IeU0YfymeczyBZ9T-8">
           <mxGeometry relative="1" as="geometry" />
@@ -111,7 +111,7 @@
           <mxGeometry x="210" y="580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="tZi0IeU0YfymeczyBZ9T-6" value="Aplikasi" style="swimlane;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="450" y="70" width="350" height="1070" as="geometry" />
+          <mxGeometry x="450" y="70" width="350" height="760" as="geometry" />
         </mxCell>
         <mxCell id="tZi0IeU0YfymeczyBZ9T-9" value="Splash Screen" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;fillColor=#FFFFFF;gradientColor=none;fontSize=15;" vertex="1" parent="tZi0IeU0YfymeczyBZ9T-6">
           <mxGeometry x="110" y="70" width="130" height="50" as="geometry" />
